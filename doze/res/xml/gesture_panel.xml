@@ -20,6 +20,12 @@
         android:key="ambient_display_key"
         android:title="@string/ambient_display_title">
 
+        <com.havoc.support.preferences.SystemSettingSwitchPreference
+            android:key="ambient_battery_percent"
+            android:title="@string/ambient_battery_percent_title"
+            android:summary="@string/ambient_battery_percent_summary"
+            android:defaultValue="true" />
+
         <SwitchPreference
             android:key="doze_enabled"
             android:defaultValue="true"

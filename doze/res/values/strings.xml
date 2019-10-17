@@ -107,6 +107,10 @@
     <string name="pocket_gesture_title">Pocket</string>
     <string name="pocket_gesture_summary">Pulse notifications on removal from pocket</string>
 
+     <!-- Ambient display battery percentage -->
+    <string name="ambient_battery_percent_title">Battery level</string>
+    <string name="ambient_battery_percent_summary">Show battery percent on the bottom while dozing</string>
+
     <!-- Proximity wake -->
     <string name="proximity_wake_title">Proximity wake</string>
     <string name="proximity_wake_enable_title">Proximity wake</string>
